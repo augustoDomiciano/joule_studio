@@ -106,3 +106,22 @@ Live Session:
 <img width="1437" height="837" alt="image" src="https://github.com/user-attachments/assets/679c862f-dd8b-4d74-b862-5c5498a29496" />
 
 <img width="1407" height="873" alt="image" src="https://github.com/user-attachments/assets/e09725e7-3c5e-426e-bd66-c602f762c4d0" />
+
+
+Joule Studio 2.0
+
+<img width="1680" height="886" alt="image" src="https://github.com/user-attachments/assets/eea224a1-8c83-42c2-9806-903ab2b905b4" />
+
+<img width="1626" height="881" alt="image" src="https://github.com/user-attachments/assets/14650731-4e97-41e0-894f-44400153c347" />
+
+<img width="1695" height="857" alt="image" src="https://github.com/user-attachments/assets/4b01579e-9c49-4b87-a286-7d7254b4c17c" />
+
+<img width="1681" height="832" alt="image" src="https://github.com/user-attachments/assets/2fb52806-fa76-45a9-97d9-053c47ed2c54" />
+
+<img width="1658" height="892" alt="image" src="https://github.com/user-attachments/assets/c1babed7-f642-4157-8d9e-507c772c463f" />
+
+<img width="1708" height="931" alt="image" src="https://github.com/user-attachments/assets/75eb6050-e9c1-4f71-8d4e-cb37323f31aa" />
+
+<img width="1702" height="870" alt="image" src="https://github.com/user-attachments/assets/e46e97d6-3103-49d7-8896-b8d210dd2204" />
+
+<img width="1728" height="902" alt="image" src="https://github.com/user-attachments/assets/bee57a45-0950-4968-ba76-7da739a18903" />
