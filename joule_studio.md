@@ -125,3 +125,6 @@ Joule Studio 2.0
 <img width="1702" height="870" alt="image" src="https://github.com/user-attachments/assets/e46e97d6-3103-49d7-8896-b8d210dd2204" />
 
 <img width="1728" height="902" alt="image" src="https://github.com/user-attachments/assets/bee57a45-0950-4968-ba76-7da739a18903" />
+
+<img width="1698" height="925" alt="image" src="https://github.com/user-attachments/assets/f709d7a2-161a-492c-a5de-e17b419faadf" />
+
